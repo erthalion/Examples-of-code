@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ISeeYou" Database="./ISeeYou.tags">
+  <Project Name="ISeeYouHook" Path="ISeeYouHook/ISeeYouHook.project" Active="No"/>
+  <Project Name="ISeeYouHookLoader" Path="ISeeYouHookLoader/ISeeYouHookLoader.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Project Name="ISeeYouHook" ConfigName="Debug"/>
+      <Project Name="ISeeYouHookLoader" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="ISeeYouHook" ConfigName="Release"/>
+      <Project Name="ISeeYouHookLoader" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,5 @@
+LIBRARY ISeeYouHook
+EXPORTS
+	installHook @1
+	DllMain @2
+	uninstallHook @3
